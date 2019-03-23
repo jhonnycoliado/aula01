@@ -1,0 +1,8 @@
+oi, meu nome eh goku
+<<<<<<< HEAD
+no capitulo de hoje nos iremos ver GIT.
+=======
+no capitulo de hoje nos iremos ver GIT.
+
+veremos tambem a ferramente github
+>>>>>>> parent of e08fab8... removido arquivo
